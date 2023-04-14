@@ -29,3 +29,4 @@ function calculateBtnClicked(billString) {
     
 }
 
+var calc = calculateBtnClicked('sms, sms');

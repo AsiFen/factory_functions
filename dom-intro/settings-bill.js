@@ -1,4 +1,7 @@
-function settingsBill() {
+
+var settingsBill = function(){
+
+//function settingsBill() {
 
     var theSmsCost = 0;
     var theCallCost = 0;
